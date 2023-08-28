@@ -1,0 +1,16 @@
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.board {
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    background-image: url(../img/board.png);
+    background-size: cover;
+}
+
